@@ -8,4 +8,4 @@ My name is Peter Snelgrove.
 
 I currently live in Alexandria Va with my beautiful wife.
 
-I have a cat and a dog
+I have a cat named Lily and a dog named Argon.
