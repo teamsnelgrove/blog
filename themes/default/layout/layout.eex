@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Peter Snelgrove's Blog</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="shortcut icon" href="/favicon.png">
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <%= @css %>
+    <%= @js %>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+    <!-- RSS -->
+    <link href="/blog.rss" rel="alternate" type="application/rss+xml" title="Peter Snelgrove Blog" />
+  </head>
+
+  <body class="theme-base-09">
+      <div class="sidebar">
+          <div class="container sidebar-sticky">
+              <div class="sidebar-about">
+                  <a href="/"><h1>Peter <br>Snelgrove</h1></a>
+                  <p class="lead">
+                      Person who does stuff.
+                  </p>
+              </div>
+
+              <ul class="sidebar-nav">
+                  <li><a href="/">Home</a> </li>
+                  <li><a href="/about.html">About</a> </li>
+              </ul>
+
+              <p>&copy; 2017. All rights reserved.</p>
+          </div>
+      </div>
+      <div class="content container">
+          <div class="posts">
+              <%= @content %>
+          </div>
+      </div>
+  </body>
+</html>
