@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-  <title>A brand new static site</title>
-  <link>http://my.blog.url</link>
+  <title>Peter Snelgrove Blog</title>
+  <link>https://peter.snelgrove.family</link>
   <description>This is my blog about things</description>
-  <lastBuildDate>2017-08-31 17:33:20</lastBuildDate>
+  <lastBuildDate>2017-08-31 18:15:34</lastBuildDate>
   <language>en-us</language>
 <item>
   <title>Welcome to Hamsters</title>
   <description>[CDATA[ A new blog post ]]</description>
   <pubDate>2017-08-30</pubDate>
-  <link>http://my.blog.url/2017-08-30-welcome-to-obelisk.html</link>
-  <guid>http://my.blog.url/2017-08-30-welcome-to-obelisk.html</guid>
+  <link>https://peter.snelgrove.family/2017-08-30-welcome-to-obelisk.html</link>
+  <guid>https://peter.snelgrove.family/2017-08-30-welcome-to-obelisk.html</guid>
 </item>
 <item>
   <title>New obelisk feature</title>
   <description>[CDATA[ A new blog post ]]</description>
   <pubDate>2017-08-30</pubDate>
-  <link>http://my.blog.url/2017-08-30-new-obelisk-feature.html</link>
-  <guid>http://my.blog.url/2017-08-30-new-obelisk-feature.html</guid>
+  <link>https://peter.snelgrove.family/2017-08-30-new-obelisk-feature.html</link>
+  <guid>https://peter.snelgrove.family/2017-08-30-new-obelisk-feature.html</guid>
 </item>
 </channel>
 </rss>
