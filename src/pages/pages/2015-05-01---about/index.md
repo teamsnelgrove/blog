@@ -15,7 +15,7 @@ Language interpreter. Life is funny and I'm often surprised at the path
 that got me there.
 
 I like woodworking. Particually turning bowls on a lathe. Interestingly enough
-it was my older brother [Ashton](https://ashton.snelgrove.family) that turned
+it was my older brother [Ashton](https://ashton.snelgrove.science) that turned
 me on to it. Pun intended.
 
 ![My super cool family](./1.jpg)
